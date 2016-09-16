@@ -1,5 +1,5 @@
-## <span style="color: orange;">Keeping Accessibility in Mind</span>
-### http://bit.ly/AFuclaGHW
+## <span style="color: orange;">An Introduction to Universal Design</span>
+### http://bit.ly/IntroUD
 <hr />
 ### George H. Williams / <a href="http://twitter.com/GeorgeOnline">@GeorgeOnline</a>
 
