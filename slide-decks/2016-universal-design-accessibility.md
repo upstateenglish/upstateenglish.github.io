@@ -7,7 +7,7 @@
 
 # <span style="color: orange;">Design</span>
 <hr />
-### Is "designer" in your<br /> job title or description?
+### Is "designer" in your<br /> job title or description? <!-- .element: class="fragment" data-fragment-index="0" -->
 ### Surprise! Everyone is always making design decisions.  <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
@@ -29,74 +29,47 @@
 
 
 
-## <span style="color: orange;">Think - Pair - Share</span>
-<hr />
+## <div style="color: orange; text-align: left;">What is<br /> Universal Design?</div>
 
-* Take 2 minutes to think/write about the following questions. <!-- .element: class="fragment" data-fragment-index="1" -->
-* Take 5 minutes to discuss with a partner.  <!-- .element: class="fragment" data-fragment-index="2" -->
-* Share with the rest of use.  <!-- .element: class="fragment" data-fragment-index="3" -->
-* Question 1: In your work, what are your design responsibilities?  <!-- .element: class="fragment" data-fragment-index="4" -->
-* Question 2: What principles guide your design decisions?  <!-- .element: class="fragment" data-fragment-index="5" -->
+<div style="text-align: left;">"A design concept that recognizes, respects, values and attempts to accommodate the broadest possible spectrum of human ability in the design of all products, environments and information systems" (<a href="https://www.ncsu.edu/project/design-projects/sites/cud/content/UD_intro.html">NCSU</a>).</div>
 
 
 
-# <span style="color: orange;">Design: Discussion</span>
+## <div style="color: orange; text-align: left;">Universal Design<br /> <span style="text-transform: lowercase; color: white;">vs</span> Accessible Design</div>
+
+<div style="text-align: left;"><span style="color: orange;">Universal design</span> is a *maximal* concept, aiming to provide the widest range of usability and access for the largest number of people.</div>  <!-- .element: class="fragment" data-fragment-index="1" -->
+<div style="text-align: left;"><span style="color: orange;">Accessible design</span>, by contrast, involves only fulfilling the *minimum* requirements to meet regulatory standards.</div>  <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-## <span style="color: orange;">"Accessible"</span>
-<hr />
+## <div style="color: orange; text-align: left">What is Universal Design<br /> for Learning?</div>
 
-* Available  <!-- .element: class="fragment" data-fragment-index="1" -->
-* Understandable <!-- .element: class="fragment" data-fragment-index="2" -->
-* Usable  <!-- .element: class="fragment" data-fragment-index="3" -->
-* Designed for people with disabilities  <!-- .element: class="fragment" data-fragment-index="4" -->
+<div style="text-align: left;">"A framework to improve and optimize teaching and learning for all people" ([CAST](http://www.cast.org/our-work/about-udl.html#.V9wMvTusAqY)).</div> <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
-## <span style="color: orange;">Information + (Hardware + Software) + User</span>
-<hr />
-
-* How your information interacts with a user's technology will affect its accessibility.  <!-- .element: class="fragment" data-fragment-index="1" -->
-
-
-
-## <span style="color: orange;">Assistive Technology</span>
-<hr />
-### Is any technology <em>not</em> assistive?
+## <div style="color: orange; text-align: left">What about "<span style="color: white;">accommodations</span>"?</div>
+<div style="text-align: left"><span style="color: orange;">Advantage</span>: meeting the needs of a particular student through communication with instructor.</div>  <!-- .element: class="fragment" data-fragment-index="1" -->
+<div style="text-align: left"><span style="color: orange;">Disadvantage</span>: sometimes implemented as a legalistic retrofit.</div>  <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-	
 ## <span style="color: orange;">Design Philosophies</span>
 <hr />
 
 * Accessible Design  <!-- .element: class="fragment" data-fragment-index="1" -->
 * Universal Design  <!-- .element: class="fragment" data-fragment-index="2" -->
-* Inclusive Design  <!-- .element: class="fragment" data-fragment-index="3" --> 
 
 
 
-## <span style="color: orange;">Think - Pair - Share</span>
+## <span style="color: orange;">5 specific tips for teachers</span>
 <hr />
 
-What are the advantages and disadvantages<br /> of these different design philosophies?
-
-
-
-## <span style="color: orange;">Design Philosophies: Discussion</span>
-
-
-
-## <span style="color: orange;">Think - Pair - Share</span>
-<hr />
-
-* Currently, what is your workflow for making resources accessible? <!-- .element: class="fragment" data-fragment-index="1" -->
-* What are the barriers to creating accessible resources?  <!-- .element: class="fragment" data-fragment-index="2" -->
-
-
-
-## <span style="color: orange;">Workflow + Barriers: Discussion</span>
+1. Speaking style in the classroom  <!-- .element: class="fragment" data-fragment-index="1" -->
+2. Document design, both print and electronic  <!-- .element: class="fragment" data-fragment-index="2" -->
+3. Creating (or selecting) videos with captions  <!-- .element: class="fragment" data-fragment-index="3" -->
+4. Evaluating educational technology tools  <!-- .element: class="fragment" data-fragment-index="4" -->
+5. Being open to change  <!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -105,6 +78,22 @@ What are the advantages and disadvantages<br /> of these different design philos
 <div style="text-align: left;"><a href="http://www.udlcenter.org">National Center on Universal Design for Learning</a></div>
 
 * "Founded in 2009, the National Universal Design Learning Center supports the effective implementation of UDL by connecting stakeholders in the field and providing resources and information." 
+
+
+
+## <span style="color: orange;">Solutions: Big Picture</span>
+<hr />
+<div style="text-align: left;"><a href="http://udloncampus.cast.org">UDL on Campus</a></div>
+
+* A site devoted to universal design for learning in higher education.
+
+
+
+## <span style="color: orange;">Solutions: Big Picture</span>
+<hr />
+<div style="text-align: left;"><a href="https://accessiblesyllabus.tulane.edu">Accessible Syllabus</a></div>
+
+* Advice on creating "accessible classroom resources [to] promote student engagement and agency."
 
 
 
@@ -126,7 +115,8 @@ What are the advantages and disadvantages<br /> of these different design philos
 
 
 
-#### <span style="color: orange;">Keeping Accessibility in Mind</span>
-### http://bit.ly/AFuclaGHW
+## <span style="color: orange;">Questions?</span>
+## Intro to Universal Design
+### http://bit.ly/IntroUD
 <hr />
 ### George H. Williams / <a href="http://twitter.com/GeorgeOnline">@GeorgeOnline</a>
