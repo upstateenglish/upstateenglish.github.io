@@ -1,13 +1,3 @@
-## <span style="color: orange;">English 101</span>
-
-1. Take out assigned readings,
-2. A notebook, and
-3. Something write with.
-
-
-
-<div style="font-size: 125%">*BTD* Chapter 7</div>
-
 ## MLA Style
 <hr />
 <div style="font-size: 125%; color: orange;" class="fragment" data-fragment-index="0">Why do we document our sources?</div>
@@ -104,10 +94,10 @@ Example
 
 <ul>
 
-	<li>Identify the source</li>
-	<li>Establish the credentials</li>
-	<li>Vary the signal verb</li>
-	<li>Establish your attitude towards the source</li>
+	<li class="fragment" data-fragment-index="1">Identify the source</li>
+	<li class="fragment" data-fragment-index="2">Establish the credentials of the source</li>
+	<li class="fragment" data-fragment-index="3">Vary the signal verb</li>
+	<li class="fragment" data-fragment-index="4">Establish your attitude towards the source</li>
 
 </ul>
 
