@@ -14,10 +14,10 @@
 <hr />
 ### <span style="color: orange;">MLA Documentation</span>
 <div style="font-size: 125%;"  class="fragment" data-fragment-index="0">Don't memorize the rules</div>
-<div style="font-size: 125%;"  class="fragment" data-fragment-index="1">*Use Chapter 7 (79-97) as a reference guide*</div>
+<div style="font-size: 125%;"  class="fragment" data-fragment-index="1">*Use Chapter 8 (85-98) as a reference guide*</div>
 
 
-<div style="font-size: 125%">*BTD* Chapter 7</div>
+<div style="font-size: 125%">*BTD* Chapter 8</div>
 
 ## MLA Style
 <hr />
@@ -44,12 +44,22 @@ Example:
 
 ## <span style="color: orange;">Works Cited guidelines</span>
 <hr />
-### 14 formatting tips to follow
-<div style="text-size: 150%;">(pages 87-88)</div>
+### The Core Elements
+<ul>
+<li class="fragment" data-fragment-index="1">Author</li>
+<li class="fragment" data-fragment-index="2">Title of Source</li>
+<li class="fragment" data-fragment-index="3">Title of Container</li>
+<li class="fragment" data-fragment-index="4">Other Contributors</li>
+<li class="fragment" data-fragment-index="5">Version</li>
+<li class="fragment" data-fragment-index="6">Number</li>
+<li class="fragment" data-fragment-index="7">Publisher</li>
+<li class="fragment" data-fragment-index="8">Publication Date</li>
+<li class="fragment" data-fragment-index="9">Location</li>
+</ul>
 
 
 
-## <span style="color: orange;">Using MLA In-text Citations</span>
+## <span style="color: orange;">In-text Citations guidelines</span>
 <hr />
 
 <ul>
@@ -102,4 +112,61 @@ Example
 </ul>
 
 
-			
+## <span style="color: orange;">Vary the Signal Verb</span>
+
+<table>
+<tr>
+<td>
+Acknowledges<br />
+Adds<br />
+Admits<br />
+Addresses<br />
+Argues<br />
+Asserts<br />
+</td>
+<td>
+Believes<br />
+Claims<br />
+Comments<br />
+Compares<br />
+Confirms<br />
+Contends<br />
+</td>
+
+<td>
+Declares<br />
+Denies<br />
+Disputes<br />
+Emphasizes<br />
+Endorses<br />
+Grants<br />
+</td>  
+<td>
+Illustrates<br />
+Implies<br />
+Insists<br />
+Notes<br />
+Observes<br />
+Points out<br />
+</td>
+
+<td>
+Reasons<br />
+Refutes<br />
+Rejects<br />
+Reports<br />
+Responds<br />
+Suggests<br />
+</td>
+<td>
+Thinks<br />
+Writes<br />
+</td>
+</tr>
+</table>
+
+
+
+## MLA Style
+<hr />
+<div style="font-size: 150%; color: orange;">Any questions?</div>
