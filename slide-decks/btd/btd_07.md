@@ -147,18 +147,16 @@ Implies<br />
 Insists<br />
 Notes<br />
 Observes<br />
-Points out<br />
+Reasons<br />
 </td>
 
 <td>
-Reasons<br />
+
 Refutes<br />
 Rejects<br />
 Reports<br />
 Responds<br />
 Suggests<br />
-</td>
-<td>
 Thinks<br />
 Writes<br />
 </td>

@@ -1,14 +1,9 @@
-### <span style="color: orange;">Proofreading</span>
-<hr />
-
-## 
-
-
-
 ### English 101
+## <span style="color: orange;">Rhetorical Analysis</span>
 <hr />
-## <span style="color: orange;">Ugly</span>
-## <span style="color: orange;">Architecture</span>
+
+"Room for Debate"  
+*Should Affirmative Action Be Based on Income?*
 
 For each essay  <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -103,7 +98,7 @@ In other words, Aristotle argues that there are three elements to the art of per
 
 ## Rhetorical Analysis
 <hr />
-### Ugly Architecture
+### Affirmative Action
 
 * <span style="color: orange;">Ethos</span>: evaluate the likely perceived credibility of the author.
 * <span style="color: orange;">Pathos</span>: what emotions is the author trying to invoke?
