@@ -106,7 +106,7 @@
 ## <span style="color: orange;">How to find grant opportunities, 1</span>
 <hr />
 
-* <span style="color: orange;">Free</span>: Visit <a href="http://http://philanthropynewsdigest.org">PhilanthropyNewsDigest.org</a> and click on the "RFPs" link in their menu. ("RFP" = "Request for Proposal")
+* <span style="color: orange;">Free</span>: Visit <a href="http://philanthropynewsdigest.org">PhilanthropyNewsDigest.org</a> and click on the "RFPs" link in their menu. ("RFP" = "Request for Proposal")
 * <span style="color: orange;">Not free</span>: Use <a href="http://FoundationCenter.org">FoundationCenter.org</a>, a subscription-based database of U.S. Foundations
 
 
