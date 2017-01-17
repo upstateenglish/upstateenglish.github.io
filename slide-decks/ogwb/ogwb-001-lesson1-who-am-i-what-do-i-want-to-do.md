@@ -18,7 +18,7 @@
 
 
 
-## Types of Organizations: <br /> <span style="color: orange;">3 Broad Categories</span>
+## Types of Organizations: <br /> <span style="color: orange;">3(+) Broad Categories</span>
 <hr />
 
 * <span style="color: orange;">Grassroots organizations</span>: small, very local, not as formally organized.
@@ -31,101 +31,53 @@
 
 
 
-## Types of Organizations: <br /> <span style="color: orange;">3 Broad Categories</span>
+## Types of Social Service Providers: <br /> <span style="color: orange;">Some examples</span>
 <hr />
 
-* <span style="color: orange;">Grassroots organizations</span>: small, very local, not as formally organized.
-* <span style="color: orange;">Social service agencies</span>
-	* Non-profit organizations -- 501(c)(3)
-	* Local government agencies
-	* For-profit businesses
-* <span style="color: orange;">Advocacy groups</span>: local, regional, citywide, national, or international
-* (<span style="color: orange;">Individuals</span>: e.g. artists, writers, filmmakers, and scholars.)
+* <span style="color: orange;">Community-based organizations</span> serve a particular geographic or demographic community.
+* <span style="color: orange;">Cultural institutions</span>, such as libraries, museums, archives, or theaters.
+* <span style="color: orange;">Universities and hospitals</span> are often the largest social service providers in a community.
 
 
 
-## Who Gets the Grant? <br /> 
+## Non-profit Organizations: <br /> <span style="color: orange;">501(c)(3) status</span>
 <hr />
 
-* Avoid slang
-* Avoid insensitive language
-* Avoid unnecessary jargon
+* Most social service organizations have 501(c)(3) status
+* Having this status means an organization...
+	* must fill out the necessary paperwork,
+	* has tax-exempt status, and
+	* may receive donations that are tax deductible.
 
 
 
-## Rule 4
-# <span style="color: orange;">Don't Exaggerate</span>
+## Who Gets the Grant? <br /> <span style="color: orange;">(It depends on who is <em>giving</em> the grant)</span>
 <hr />
 
-* Let the facts speak for themselves.
-* Avoid trying to emphasize how extraordinary your proposal or your organization is.
+* Different grant programs have different requirements. For example,
+	* Some grants only go to 501(c)(3) non-profit organizations
+	* Some grants only go to local or state agencies
+	* Some grants only go to local education agency
+	* Some grants only go to programs that affect children
 
 
 
-## Rule 5
-# <span style="color: orange;">Follow Basic Rules of Grammar</span>
+## Who Gets the Grant? <br /> <span style="color: orange;">Review the grant guidelines</span>
 <hr />
 
-* Language filled with errors will cause your readers to doubt your (and your organization's) competence.
-* Keep a guide to grammar handy when you are writing.
+* Opportunities to apply for grants will come with guidelines and requirements (and sometimes examples)
+* Before you make any plans to apply for a particular grant, make sure your project and your organization are eligible.
 
 
 
-## Rule 6
-# <span style="color: orange;">Choose your words wisely</span>
+# Listening Teams
+## <span style="color: orange;">Take 5 minutes, then share</span>
 <hr />
 
-* A dictionary will help you make sure a given word means what you think it means.
-* A thesaurus will help you expand your vocabulary and avoid repetitious language.
+1. <span style="color: orange;">Questioners</span>: Ask at least 2 questions about the material covered.
+2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
+3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
+4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.
 
 
 
-## Rule 7
-# <span style="color: orange;">Stick to the Active Voice</span>
-<hr />
-
-* Use the active voice to be clear about responsibilities and activities.
-* For example, not "The children will be tutored each afternoon" (passive voice) but "Community volunteers will tutor the children each afternoon" (active voice).
-
-
-
-## Rule 8
-# <span style="color: orange;">Keep Your Own Voice Out of It</span>
-<hr />
-
-* You're writing from the point of view of the organization, not from your point of view as an individual.
-* Avoid making political statements, expressing controversial ideas, or using inappropriate humor.
-
-
-
-## Rule 9
-# <span style="color: orange;">Limit the Adjectives</span>
-<hr />
-
-* Adjectives can be vague, unsupported opinion. (e.g. "high-quality" or "cutting edge.")
-* Any descriptions used should convey meaning clearly to the reader. (e.g. "praised by the U.S. Department of Education" or "has a success rate of over 85 percent.")
-
-
-
-## Rule 10
-# <span style="color: orange;">It's Not Personal</span>
-<hr />
-
-* Avoid first-person pronouns such as "I," "my," "we," and "our."
-* Refer to the program and any associated staff in the third person.
-
-
-
-## Rule 11
-# <span style="color: orange;">Brevity <br />Isn't Always <br />the Soul of Wit</span>
-<hr />
-
-* Avoid using unfamiliar abbreviations and acronyms: spell things out.
-
-
-
-## Rule 12
-# <span style="color: orange;">Prove It!</span>
-<hr />
-
-* Provide evidence of any assertions that you make, whenever possible.
