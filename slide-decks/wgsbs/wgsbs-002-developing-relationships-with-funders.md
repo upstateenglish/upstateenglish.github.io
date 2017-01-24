@@ -136,21 +136,6 @@
 
 
 
-## <span style="color: orange;">What to cover in a meeting</span>
-<hr />
-### Concrete Ideas
-
-* Credibility of your organization  <!-- .element: class="fragment" data-fragment-index="1" -->
-* The need for the proposed project  <!-- .element: class="fragment" data-fragment-index="2" -->
-* Description of the project  <!-- .element: class="fragment" data-fragment-index="3" -->
-* Evidence of community interest in the project  <!-- .element: class="fragment" data-fragment-index="4" -->
-* What your proposed outcomes are  <!-- .element: class="fragment" data-fragment-index="5" -->
-* How you will measure success  <!-- .element: class="fragment" data-fragment-index="6" -->
-* Costs and revenue  <!-- .element: class="fragment" data-fragment-index="7" -->
-* Why project is a good match for the funder  <!-- .element: class="fragment" data-fragment-index="8" -->
-
-
-
 # Listening Teams
 ## <span style="color: orange;">Take 5 minutes, then share</span>
 <hr />
