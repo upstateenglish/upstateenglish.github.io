@@ -25,7 +25,7 @@
 
 
 <img src="20150410-emory-accessiblefuture-presentation-02.png" alt="Screenshot of an assignment handout with a very basic, perhaps not very easy to read layout."  />
-<p><a href="20150410-emory-accessiblefuture-worddoc2.doc">MS Word document with more semantic design.</p>
+<p><a href="20150410-emory-accessiblefuture-worddoc2.docx">MS Word document with more semantic design.</p>
 
 
 
