@@ -15,15 +15,6 @@ Tip 11.
 ## (30)
 
 
-subpoint
-
-
-subpoint
-
-
-subpoint
-
-
 
 Tip 12.
 
@@ -31,15 +22,6 @@ Tip 12.
 
 ## E-mail like a professional
 ## (32)
-
-
-subpoint
-
-
-subpoint
-
-
-subpoint
 
 
 
@@ -51,15 +33,6 @@ Tip 13.
 ## (35)
 
 
-subpoint
-
-
-subpoint
-
-
-subpoint
-
-
 
 Tip 14.
 
@@ -67,15 +40,7 @@ Tip 14.
 
 ## Clean up your Internet image
 ## (37)
-
-
-subpoint
-
-
-subpoint
-
-
-subpoint
+<span style="color: orange;">*Google your full name. What do you find?*</span>
 
 
 
@@ -87,15 +52,6 @@ Tip 15.
 ## (40)
 
 
-subpoint
-
-
-subpoint
-
-
-subpoint
-
-
 
 Tip 16.
 
@@ -105,15 +61,6 @@ Tip 16.
 ## (45)
 
 *(See list of websites on page 47)*
-
-
-subpoint
-
-
-subpoint
-
-
-subpoint
 
 
 
