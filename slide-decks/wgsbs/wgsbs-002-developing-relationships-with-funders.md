@@ -136,6 +136,17 @@
 
 
 
+## <span style="color: orange;">Developing the Relationship</span>
+<hr />
+### <span style="color: orange;">Concrete Ideas</span>
+
+* Send a brief email inquiry.
+* Call and talk with someone.
+* Send a letter of inquiry.
+* Invite them for a site visit.
+
+
+
 # Listening Teams
 ## <span style="color: orange;">Take 5 minutes, then share</span>
 <hr />
