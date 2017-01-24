@@ -144,6 +144,3 @@
 2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
 3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
 4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.
-
-
-
