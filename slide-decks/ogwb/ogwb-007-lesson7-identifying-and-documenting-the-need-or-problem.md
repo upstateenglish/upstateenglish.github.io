@@ -101,6 +101,7 @@ What kinds of information should I look for?
 What are the components of<br />a strong needs section or problem statement?
 
 * Do not include a description of your program or project idea. That information is provided later in other parts of the grant proposal package.  <!-- .element: class="fragment" data-fragment-index="0" -->
+* Focus squarely on the community that your organization serves and the problem or need facing them.  <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
@@ -125,6 +126,21 @@ What are the components of<br />a strong needs section or problem statement?
 Are proposals different for<br />the federal government and national foundations?
 
 * They'll need more information than a local or state-level grantmaker who is likely to already be familiar with the conditions of the community you serve.  <!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+
+# <span style="color: orange;">Tips for Writing Problem Statement</span>
+
+---
+
+* Use statistics that are clear and that document the current unmet need or problem  <!-- .element: class="fragment" data-fragment-index="1" -->
+* Use comparative statistics and research where possible  <!-- .element: class="fragment" data-fragment-index="2" -->
+* Quote authorities who have spoken on the topic  <!-- .element: class="fragment" data-fragment-index="3" -->
+* Make sure all data is well documented  <!-- .element: class="fragment" data-fragment-index="4" -->
+* Give a clear sense of the urgency of the request  <!-- .element: class="fragment" data-fragment-index="5" -->
+
+
+
 
 
 
