@@ -134,7 +134,7 @@ Are proposals different for<br />the federal government and national foundations
 
 What if the grantmaker has identified the problem for me?
 
-* You'll still need to describe the problem or need in a way that connects your specific program idea to the community you serve.
+* You'll still need to describe the problem or need in a way that connects your specific program idea to the community you serve.  <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
