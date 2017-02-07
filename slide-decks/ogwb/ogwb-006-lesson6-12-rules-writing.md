@@ -8,6 +8,16 @@
 
 
 
+# <span style="color: orange;">Listening Teams</span>
+<hr />
+
+1. <span style="color: orange;">Questioners</span>: Ask at least 2 questions about the material covered.
+2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
+3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
+4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.
+
+
+
 ## Rule 1
 # <span style="color: orange;">Make an Outline</span>
 <hr />
@@ -112,3 +122,13 @@ Don't be too formal, but don't be too casual, either.
 <hr />
 
 * Provide evidence of any assertions that you make, whenever possible.
+
+
+
+# <span style="color: orange;">Listening Teams</span>
+<hr />
+
+1. <span style="color: orange;">Questioners</span>: Ask at least 2 questions about the material covered.
+2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
+3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
+4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.

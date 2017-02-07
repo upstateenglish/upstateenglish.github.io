@@ -1,4 +1,22 @@
-# OWGB Lesson 5 Intangibles
+*Only Grant-Writing Book You'll Ever Need *
+
+### Lesson 5
+
+---
+
+## <span style="color: orange;">"Intangibles: Things They Never Tell You (About Proposal Writing)"</span>
+
+
+
+# <span style="color: orange;">Listening Teams</span>
+<hr />
+
+1. <span style="color: orange;">Questioners</span>: Ask at least 2 questions about the material covered.
+2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
+3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
+4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.
+
+
 
 ## Who writes the grant proposal?
 
@@ -35,3 +53,13 @@
 * "Watch your language" (91).
 * "Build relationships with funders well before you apply for grants" (91).
 * "Keep up with the news!" (92).
+
+
+
+# <span style="color: orange;">Listening Teams</span>
+<hr />
+
+1. <span style="color: orange;">Questioners</span>: Ask at least 2 questions about the material covered.
+2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
+3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
+4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.
