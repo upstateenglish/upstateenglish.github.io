@@ -1,7 +1,7 @@
 # <span style="color: orange;">Goals & Objectives</span>
 ## <span style="color: orange;">What Do You Hope to Achieve if You Get the Money?</span>
 <hr />
-## OGWB Lesson 8
+## OGWB Lesson 8 <br /> WGSBS Step 4
 
 
 
@@ -45,6 +45,16 @@ Objectives must be
 
 * Your proposed program should set its own goals & objectives based on what you want to accomplish, not based on what you think will bring in the money.
 * You can, however, describe what you're doing in ways that make it clear your program will meet the funder's objectives, too.
+
+
+
+## Objectives Should Be <br /> <span style="color: orange;">S.M.A.R.T.</span>
+
+* Specific  <!-- .element: class="fragment" data-fragment-index="1" -->
+* Measurable  <!-- .element: class="fragment" data-fragment-index="2" -->
+* Achievable  <!-- .element: class="fragment" data-fragment-index="3" -->
+* Relevant  <!-- .element: class="fragment" data-fragment-index="4" -->
+* Time-bound  <!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
