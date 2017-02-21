@@ -1,7 +1,12 @@
-# <span style="color: orange;">Evaluation Plan</span>
-## <span style="color: orange;">How Can You Be Sure if Your Program Worked?</span>
+# <span style="color: orange;">Evaluation</span>
 <hr />
-## OGWB Lesson 11 & WGSBS Step 6
+
+* Was the program successful?
+* Did it do what was intended?
+* What impact did the program have on the community?
+* What did the organization learn from the program?
+* What didn't work? Why?
+* What's different in the community as a result?
 
 
 
@@ -15,6 +20,14 @@
 
 
 
+
+# <span style="color: orange;">Evaluation Plan</span>
+## <span style="color: orange;">How Can You Be Sure if Your Program Worked?</span>
+<hr />
+## OGWB Lesson 11 & WGSBS Step 6
+
+
+
 ## <span style="color: orange;">Why is evaluation important?</span>
 <hr />
 
@@ -23,11 +36,32 @@
 
 
 
-## <span style="color: orange;">Process Evaluation<br /> vs. <br />Outcome Evaluation</span>
+## <span style="color: orange;">Which grant proposals need an evaluation plan?</span>
 <hr />
 
-* Process evaluations, sometimes called formative evaluations, are used to assess the functioning of the project while it's still happening and provide feedback to allow for program corrections.  <!-- .element: class="fragment" data-fragment-index="1" -->
-* Outcome evaluations, sometimes called summative evaluations, measure outcomes once the project is over, program effectiveness, and the program's impact on the problem that it is designed to address.  <!-- .element: class="fragment" data-fragment-index="2" -->
+<div style="text-align:left;">Every grant proposal should discuss how a program will be evaluated. It's important to describe to a funder how you will know if the program is working, and what you'll do if it's not.</div>  <!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+
+## <span style="color: orange;">When should an evaluation plan be created?</span>
+<hr />
+
+<div style="text-align:left;">The best time to think about the evaluation is <span style="color: orange;">when you're first designing a program</span>, when you can select those outcomes and indicators that will indicate that the program is working.</div>  <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+## <span style="color: orange;">How is the evaluation related to other parts of the proposal?</span>
+<hr />
+
+<div style="text-align:left;">The evaluation plan should be viewed as an important element of the proposal, linked in an orderly way to the objectives as well as to the activities planned to achieve those objectives.</div>  <!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+
+## <span style="color: orange;">Process Evaluation vs. Outcome Evaluation</span>
+<hr />
+
+* Process evaluations, sometimes called formative evaluations, are used to assess the functioning of the project and provide feedback to allow for program corrections.  <!-- .element: class="fragment" data-fragment-index="1" -->
+* Outcome evaluations, sometimes called summative evaluations, measure outcomes, program effectiveness, and the program's impact on the problem that it is designed to address.  <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
