@@ -1,7 +1,7 @@
 # <span style="color: orange;">Evaluation Plan</span>
 ## <span style="color: orange;">How Can You Be Sure if Your Program Worked?</span>
 <hr />
-## OGWB Lesson 11 & WGSBS Step 6
+### OGWB Lesson 11<br />WGSBS Step 6
 
 
 
