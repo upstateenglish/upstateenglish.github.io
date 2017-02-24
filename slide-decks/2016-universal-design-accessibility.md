@@ -54,14 +54,6 @@
 
 
 
-## <span style="color: orange;">Design Philosophies</span>
-<hr />
-
-* Accessible Design  <!-- .element: class="fragment" data-fragment-index="1" -->
-* Universal Design  <!-- .element: class="fragment" data-fragment-index="2" -->
-
-
-
 ## <span style="color: orange;">5 specific tips for teachers</span>
 <hr />
 
