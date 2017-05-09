@@ -7,7 +7,6 @@
 ## "What Is a Grant, and</br /> <span style="color: orange;">Where Do I Get One?</span>"
 
 
-
 # <span style="color: orange;">Listening Teams</span>
 <hr />
 
@@ -141,8 +140,6 @@
 	* <a href="https://www.tgci.com/funding-sources/SC/corporate">Corporate Giving Programs: S.C.</a>
 
 
-
-
 # <span style="color: orange;">Listening Teams</span>
 <hr />
 
@@ -150,3 +147,15 @@
 2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
 3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
 4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.
+
+
+
+# <span style="color: orange;">Questions?</span>
+
+*Only Grant-Writing Book You'll Ever Need *
+
+### Lesson 2
+
+---
+
+## "What Is a Grant, and</br /> Where Do I Get One?"

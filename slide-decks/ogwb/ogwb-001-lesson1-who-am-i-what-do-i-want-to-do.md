@@ -4,8 +4,7 @@
 
 ---
 
-## <span style="color: orange;">"Who Am I? (and What in the World Do I Want to Do?"</span>
-
+## <span style="color: orange;">"Who Am I? (and What in the World Do I Want to Do?)"</span>
 
 
 # <span style="color: orange;">Listening Teams</span>
@@ -69,7 +68,6 @@
 * Before you make any plans to apply for a particular grant, make sure your project and your organization are eligible.
 
 
-
 # Listening Teams
 ## <span style="color: orange;">Take 5 minutes, then share</span>
 <hr />
@@ -81,3 +79,12 @@
 
 
 
+# <span style="color: orange;">Questions?</span>
+
+*Only Grant-Writing Book You'll Ever Need *
+
+### Lesson 1
+
+---
+
+## "Who Am I? (and What in the World Do I Want to Do?)"
