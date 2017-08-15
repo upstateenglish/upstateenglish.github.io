@@ -74,7 +74,7 @@
 
 <div style="text-align: left;"><a href="https://accessiblesyllabus.tulane.edu">Accessible Syllabus</a></div>
 
-* "Advice on creating "accessible classroom resources [to] promote student engagement and agency."
+* Advice on creating "accessible classroom resources [to] promote student engagement and agency."
 
 
 
