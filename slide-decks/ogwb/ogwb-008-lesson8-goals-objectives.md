@@ -76,7 +76,7 @@ Objectives must be SMART
 * Specific,
 * Measurable,
 * Attainable,
-* Realistic, and
+* Relevant, and
 * Time bound.
 
 
