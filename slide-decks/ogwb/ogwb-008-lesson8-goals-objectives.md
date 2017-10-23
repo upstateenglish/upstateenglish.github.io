@@ -71,12 +71,12 @@ At the end of the grant-funded period...
 
 ## <span style="color: orange;">More about objectives...</span>
 ---
-Objectives must be
+Objectives must be SMART
 
-* Concrete and specific,
+* Specific,
 * Measurable,
-* Realistic,
-* Attainable, and
+* Attainable,
+* Realistic, and
 * Time bound.
 
 
