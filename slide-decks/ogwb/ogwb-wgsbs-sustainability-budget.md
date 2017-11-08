@@ -1,10 +1,14 @@
-## <span style="color: orange;">Today's Agenda</span>
+## <span style="color: orange;">Sustainability</span>
 <hr />
+How Will You Continue the Program When the Grant Funds Run Out?
 
-* Sustainability
-	* *OGWB* Lesson 13
-	* *WGSBS* Step 7
 
+
+### Show that other grant makers are interested in the program
+
+
+
+### Explain that long-term government support will be available once you’ve developed the program.
 
 
 ## <span style="color: orange;">General Advice</span>
