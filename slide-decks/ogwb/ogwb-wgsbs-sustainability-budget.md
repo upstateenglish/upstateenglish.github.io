@@ -54,7 +54,9 @@ Use grant funds for activities and/or resources that have a life beyond the gran
 
 Coalitions that develop and implement projects collaboratively may have a better chance of sustaining projects
 
-## <span style="color: orange;">Discussion</span>
+
+
+### <span style="color: orange;">Discussion</span>
 
 1. *OGWB* Lesson 13: Let's say you want to show that you will sustain a literacy program for immigrants in your community if the Love Foundation gives you a grant to cover the first year. How will you convince the foundation that your program isn't a "one-year wonder"?
 2. Share and discuss your answers to *WGSBS* Worksheet 7.1
