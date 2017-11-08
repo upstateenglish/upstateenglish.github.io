@@ -1,6 +1,7 @@
-## <span style="color: orange;">Sustainability</span>
+# <span style="color: orange;">Sustainability</span>
+## <span style="color: orange;">How Will You Continue the Program When the Grant Funds Run Out?</span>
 <hr />
-How Will You Continue the Program When the Grant Funds Run Out?
+### OGWB Lesson 13<br />WGSBS Step 7
 
 
 
