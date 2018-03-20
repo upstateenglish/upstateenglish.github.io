@@ -4,7 +4,6 @@
 ### OGWB Lesson 11<br />WGSBS Step 6
 
 
-
 # <span style="color: orange;">Listening Teams</span>
 <hr />
 
@@ -77,6 +76,11 @@ Answers such questions as these:
 * Was the program budget accurate?  <!-- .element: class="fragment" data-fragment-index="6" -->
 
 
+
+# <span style="color: orange;">Evaluation Plan</span>
+## <span style="color: orange;">How Can You Be Sure if Your Program Worked?</span>
+<hr />
+### OGWB Lesson 11<br />WGSBS Step 6
 
 
 # <span style="color: orange;">Listening Teams</span>

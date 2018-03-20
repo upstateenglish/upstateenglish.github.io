@@ -4,7 +4,6 @@
 ### OGWB Lesson 9 <br />WGSBS Step 5
 
 
-
 # <span style="color: orange;">Listening Teams</span>
 <hr />
 
@@ -77,6 +76,12 @@ The methods section of the proposal systematically walks the funder through the 
 * <span style="color: orange;">Goals & Objectives</span>: These are the specific things that we will change.
 * <span style="color: orange;">Methods</span>: This is how we will bring about those changes.
 
+
+
+## <span style="color: orange;">Methods</span>
+### <span style="color: orange;">How Do You Plan to Achieve Your Goals and Objectives?</span>
+---
+### OGWB Lesson 9 <br />WGSBS Step 5
 
 
 # <span style="color: orange;">Listening Teams</span>

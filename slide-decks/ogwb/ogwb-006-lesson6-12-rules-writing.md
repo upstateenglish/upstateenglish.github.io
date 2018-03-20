@@ -7,7 +7,6 @@
 ## <span style="color: orange;">"Writing (Proposals) With Style: 12 Basic Rules"</span>
 
 
-
 # <span style="color: orange;">Listening Teams</span>
 <hr />
 
@@ -123,6 +122,15 @@ Don't be too formal, but don't be too casual, either.
 
 * Provide evidence of any assertions that you make, whenever possible.
 
+
+
+*Only Grant-Writing Book You'll Ever Need *
+
+### Lesson 6
+
+---
+
+## <span style="color: orange;">"Writing (Proposals) With Style: 12 Basic Rules"</span>
 
 
 # <span style="color: orange;">Listening Teams</span>
