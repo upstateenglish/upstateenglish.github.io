@@ -7,7 +7,6 @@
 ## <span style="color: orange;">"Intangibles: Things They Never Tell You (About Proposal Writing)"</span>
 
 
-
 # <span style="color: orange;">Listening Teams</span>
 <hr />
 
@@ -54,6 +53,15 @@
 * "Build relationships with funders well before you apply for grants" (91).
 * "Keep up with the news!" (92).
 
+
+
+*Only Grant-Writing Book You'll Ever Need *
+
+### Lesson 5
+
+---
+
+## <span style="color: orange;">"Intangibles: Things They Never Tell You (About Proposal Writing)"</span>
 
 
 # <span style="color: orange;">Listening Teams</span>
