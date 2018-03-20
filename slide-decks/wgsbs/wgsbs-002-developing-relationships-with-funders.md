@@ -137,11 +137,10 @@
 
 
 
-# Listening Teams
-## <span style="color: orange;">Take 5 minutes, then share</span>
-<hr />
+*Winning Grants Step by Step*
 
-1. <span style="color: orange;">Questioners</span>: Ask at least 2 questions about the material covered.
-2. <span style="color: orange;">Agreers</span>: Tell which points you agreed with or found helpful and explain why.
-3. <span style="color: orange;">Nay-sayers</span>: Tell which points you disagreed with or found unhelpful and explain why.
-4. <span style="color: orange;">Example givers</span>: Give specific examples or applications of the material.
+### Step 2
+
+---
+
+## <span style="color: orange;">"Developing Relationships with Funders"</span>
