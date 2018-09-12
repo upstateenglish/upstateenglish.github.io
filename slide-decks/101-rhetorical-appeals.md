@@ -1,9 +1,8 @@
-### English 101
 ## <span style="color: orange;">Rhetorical Analysis</span>
 <hr />
 
 "Room for Debate"  
-*Should Affirmative Action Be Based on Income?*
+*Is the ADHD Diagnosis Helping or Hurting Kids?*
 
 For each essay  <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -46,17 +45,19 @@ We'll consider ourselves a 3rd party:
 <div style="text-align: left; font-family: Cambria, Serif; font-size: 125%; font-weight: normal;">A woman pulls her car up to the Starbucks drive-through, and before she can even order her large cup of coffee, the voice on the other end of the speaker says, "Thank you for choosing Starbucks! May I interest you in a low-fat apple-banana bran muffin this morning, paired with a tall skinny soy latte?"</div>
 
 
-### Click right
+## Rhetorical Analysis
+<hr />
+Let's consider these questions:
 
-
- Let's consider these questions:
-
-  * Who is _the rhetor_in this situation? It's the Starbucks employee, because that's the person trying to persuade someone.
+  * Who is _the rhetor_ in this situation? It's the Starbucks employee, because that's the person trying to persuade someone.
 
   * Who is _the audience_? It's the woman in the car, because she's the person the rhetor is trying to persuade.
 
-  * What is _the act of persuasion_taking place? The Starbucks employee is attempting to persuade the woman to buy a muffin and a pricey coffee drink.
+  * What is _the act of persuasion_ taking place? The Starbucks employee is attempting to persuade the woman to buy a muffin and a pricey coffee drink.
 
+
+## Rhetorical Analysis
+<hr />
 What would a _rhetorical analysis_of this situation be like?
 
   * An _observer_--such as yourself--would consider the rhetor, the audience, and the rhetoric that is being used by the rhetor in an attempt to persuade the audience.
@@ -65,7 +66,7 @@ What would a _rhetorical analysis_of this situation be like?
 
   * explain their analysis in an essay that answers this question: "Has the rhetor made effective use of rhetoric in trying to persuade the audience? (Why or why not?)?"
 
-**Mistakes to avoid** It's important for you to remember that rhetorical analysis requires you, the observer, to refrain from being a part in what's going on between the rhetor and the audience. You are the silent third party. It is not your job to decide if _you_are persuaded by the rhetor. Instead, it's your job to decide if the _audience_would be persuaded by the rhetor. Sometimes you have a very specific idea of who the audience is, but sometimes you just have a very general idea.
+**Mistakes to avoid** It's important for you to remember that rhetorical analysis requires you, the observer, to refrain from being a part in what's going on between the rhetor and the audience. You are the silent third party. It is not your job to decide if _you_ are persuaded by the rhetor. Instead, it's your job to decide if the _audience_ would be persuaded by the rhetor. Sometimes you have a very specific idea of who the audience is, but sometimes you just have a very general idea.
 
 
 ## Three Rhetorical Appeals
