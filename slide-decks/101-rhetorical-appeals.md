@@ -79,9 +79,10 @@ What would a _rhetorical analysis_ of this situation be like?
 
 ## Rhetorical Analysis
 <hr />
-What would a _rhetorical analysis_ of this situation be like?
 
-**Mistakes to avoid** It's important for you to remember that rhetorical analysis requires you, the observer, to refrain from being a part in what's going on between the rhetor and the audience. You are the silent third party. It is not your job to decide if _you_ are persuaded by the rhetor. Instead, it's your job to decide if the _audience_ would be persuaded by the rhetor. Sometimes you have a very specific idea of who the audience is, but sometimes you just have a very general idea.
+
+**Mistakes to avoid**
+It is not your job to decide if _you_ are persuaded by the rhetor. Instead, it's your job to decide if the _audience_ would be persuaded by the rhetor.
 
 
 
