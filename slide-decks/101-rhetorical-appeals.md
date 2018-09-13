@@ -109,11 +109,26 @@ Aristotle:
 
 ## Rhetorical Analysis
 <hr />
-### ADHD
+### Exercise
 
 * <span style="color: orange;">Ethos</span>: evaluate the likely *perceived* credibility of the author.
 * <span style="color: orange;">Pathos</span>: find where the author is trying to evoke particular emotions in the audience.
 * <span style="color: orange;">Logos</span>: where is the author using logic -- or the appearance of logic -- to persuade the audience?
+
+
+## <span style="color: orange;">Rhetorical Analysis</span>
+<hr />
+
+"Room for Debate"  
+*Is the ADHD Diagnosis Helping or Hurting Kids?*
+
+For each essay  <!-- .element: class="fragment" data-fragment-index="1" -->
+
+1. Who wrote it?  Evaluate each author's ethos.<!-- .element: class="fragment" data-fragment-index="2" -->
+2. What's the main thesis?  <!-- .element: class="fragment" data-fragment-index="3" -->
+3. Examples of logos  <!-- .element: class="fragment" data-fragment-index="4" -->
+4. Examples of pathos  <!-- .element: class="fragment" data-fragment-index="5" -->
+
 
 
 # End
