@@ -79,9 +79,11 @@ What would a _rhetorical analysis_ of this situation be like?
 
 ## Rhetorical Analysis
 <hr />
-
 **Mistakes to avoid**
-It is not your job to decide if _you_ are persuaded by the rhetor. Instead, it's your job to decide if the _audience_ would be persuaded by the rhetor.
+
+It is not your job to decide if _you_ are persuaded by the rhetor.
+
+Instead, it's your job to decide if the _audience_ would be persuaded by the rhetor.
 
 
 
