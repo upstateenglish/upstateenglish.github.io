@@ -3,8 +3,8 @@
 
 ---
 
-## Figure Out What You Want . . .
-## and What You Don't
+## <span style="color: orange;">Figure Out What You Want . . .</span>
+## <span style="color: orange;">and What You Don't</span>
 
 
 
