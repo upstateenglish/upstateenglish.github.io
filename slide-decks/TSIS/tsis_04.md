@@ -2,7 +2,7 @@
 
 ### Chapter 4
 <hr />
-## "Yes / No / Okay, But":
+## <span style="color: orange;">"Yes / No / Okay, But":</span>
 ## <span style="color: orange;">Three Ways to Respond</span>
 
 

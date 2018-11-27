@@ -2,7 +2,7 @@
 
 ### Chapter 8
 <hr />
-## "As A Result":
+## <span style="color: orange;">"As A Result":</span>
 ## <span style="color: orange;">Connecting the Parts</span>
 
 
